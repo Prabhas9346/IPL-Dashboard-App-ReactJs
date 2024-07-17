@@ -1,0 +1,22 @@
+.matchCardEl {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #0f172a;
+  border-radius: 1vw;
+  padding: 2vw;
+  height: 30vw;
+  width: 25vw;
+  margin: 1vw;
+}
+.image1 {
+  width: 10vw;
+  height: 10vw;
+}
+.textColorR {
+  color: #e31a1a;
+}
+.textColorG {
+  color: #18ed66;
+}

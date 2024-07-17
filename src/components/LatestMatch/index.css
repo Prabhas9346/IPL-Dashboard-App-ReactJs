@@ -1,0 +1,13 @@
+.latestMatchDetails {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0f172a;
+  border-radius: 1vw;
+  padding: 2vw;
+  text-align: end;
+}
+.competingTeamLogo {
+  width: 15vw;
+  margin: 1vw;
+}

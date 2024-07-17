@@ -1,0 +1,25 @@
+.teamLogo {
+  width: 10vw;
+  height: 10vw;
+  padding: auto;
+}
+.teamLogoBox {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1vw;
+}
+.teamName {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.5vw;
+}
+.liEl {
+  background-color: #ffffff33;
+  padding: 0%;
+  border: 2px solid #ffffff;
+  border-radius: 1vw;
+  width: 40vw;
+  margin: 1vw;
+  height: 100%;
+}
